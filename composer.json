@@ -1,0 +1,17 @@
+{
+    "name": "Angel/tiendaw",
+    "type": "project",
+    "require": {
+        "noahbuscher/macaw": "dev-master",
+        "victorjfg/dawfony": "dev-master",
+		"twbs/bootstrap": "dev-master"
+    },
+    "license": "copyright",
+    "authors": [
+        {
+            "name": "Angel",
+            "email": "angellfmorante@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
